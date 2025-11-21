@@ -1,11 +1,7 @@
 # Reflexiones personales sobre los ODS
 
-## 1. Importancia de los objetivos globales
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel sapien id neque volutpat tincidunt. Nulla vehicula, urna non dignissim imperdiet, ex justo sodales elit, sit amet tincidunt arcu lorem ac turpis.
+Como estudiante y futura profesional, siento que las personas que programamos o trabajamos con tecnología tenemos una gran responsabilidad en la sostenibilidad digital, porque nuestro trabajo influye directamente en cómo se usan los recursos y en el impacto que generan las herramientas digitales. 
 
-## 2. Retos para el futuro
-Suspendisse potenti. Nam laoreet, orci vel vestibulum faucibus, lectus justo sodales lacus, ut volutpat metus nulla a nibh. Curabitur convallis justo vel lorem interdum tincidunt.
+En mi día a día puedo aplicar prácticas sencillas pero importantes, como escribir código más eficiente, evitar usar servicios que consuman energía de forma innecesaria y cuidar más los dispositivos para no generar tantos residuos electrónicos. También puedo intentar informarme mejor sobre tecnologías verdes y escoger opciones más responsables cuando sea posible. Creo que las empresas tecnológicas tienen un papel decisivo, porque son quienes desarrollan las plataformas y servicios que usamos millones de personas, y podrían impulsar cambios muy grandes si priorizaran la sostenibilidad. 
 
-## 3. Compromiso individual y colectivo
-Aenean et odio eu velit sodales tempor. In vel lacus eu turpis convallis vulputate. Donec id augue id orci elementum aliquet at et magna. Morbi ullamcorper, nibh a consectetur facilisis, justo enim fermentum justo, eget malesuada ex arcu in nisl.
-
+Sin embargo, pienso que todavía cuesta aplicar políticas sostenibles en el sector TIC porque muchas veces se prioriza la rapidez, la innovación o el beneficio económico antes que el impacto ambiental. Personalmente, estoy dispuesta a aprender más sobre sostenibilidad, a cuestionar mis hábitos digitales y a promover entre mis compañeros una forma de trabajar más consciente y respetuosa con el planeta.
