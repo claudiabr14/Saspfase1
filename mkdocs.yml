@@ -6,5 +6,11 @@ nav:
   - ODS: ods.md
   - Reflexiones: reflexiones.md
 
-theme: readthedocs
+theme: 
+  name: material
+  palette:
+    - scheme: default
+      primary: pink
+      accent: pink
+
 language: es
